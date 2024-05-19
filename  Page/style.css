@@ -1,0 +1,21 @@
+.Clothing{
+    background-color: rgb(251, 7, 227);
+    color:yellow;
+    text-align: center;
+    font-size: 60px;
+    flex-direction: row;
+    padding: 10px;
+    
+}
+.box{
+     
+    align-content: space-around;
+    border: 14px solid burlywood;
+    cursor: pointer; 
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px;
+    
+}
